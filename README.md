@@ -28,15 +28,16 @@ ____________________________________
 
 
 #### Step3: Installation
-1. MOD
-2. ENV
-3. RUN
-4. FMT
-5. GET
+1. MOD - module maintenance
+2. ENV - print Go environment information
+3. RUN - compile and run Go program
+4. FMT - gofmt (reformat) package sources
+5. GET - add dependencies to current module and install them
 6. GoROOT - Stores Binaries 
 7. GoWorkspace - Stores your code 
 
-#### Project Structure 
+#### General Project Structure 
+```
 project
     bin
     pkg
@@ -44,6 +45,5 @@ project
       github.com
         ninadgawad
           helloWorld
-          
+```          
 
-  
