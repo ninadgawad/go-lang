@@ -10,3 +10,15 @@ This document will demonstrate development using Go package
 - Hello World in Go 
 
 [Go Code](https://golang.org/doc/code) 
+
+
+## Installing GoLang 
+
+Step1: [Download Golang](https://golang.org/doc/install?download=go1.16.3.windows-amd64.msi)
+       Validate version `go version`
+       
+Step2: Go Code
+
+`go mod init example.com/hello`
+____________________________________
+`go run .`
