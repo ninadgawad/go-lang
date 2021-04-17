@@ -25,3 +25,12 @@ Validate version `go version`
 ____________________________________
 `go run .`
 ____________________________________
+
+
+#### Step3: Installation
+1. MOD
+2. ENV
+3. RUN
+4. FMT
+5. GET
+
