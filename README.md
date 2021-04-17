@@ -14,11 +14,14 @@ This document will demonstrate development using Go package
 
 ## Installing GoLang 
 
-Step1: [Download Golang](https://golang.org/doc/install?download=go1.16.3.windows-amd64.msi)
-       Validate version `go version`
-                        `go version go1.16.3 windows/amd64`
-Step2: Go Code
+#### Step1: 
+[Download Golang](https://golang.org/doc/install?download=go1.16.3.windows-amd64.msi)
+Validate version `go version`
+<br />
+`go version go1.16.3 windows/amd64`
 
+#### Step2: Go Code
 `go mod init example.com/hello`
 ____________________________________
 `go run .`
+____________________________________
