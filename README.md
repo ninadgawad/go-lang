@@ -33,4 +33,17 @@ ____________________________________
 3. RUN
 4. FMT
 5. GET
+6. GoROOT - Stores Binaries 
+7. GoWorkspace - Stores your code 
 
+#### Project Structure 
+project
+    bin
+    pkg
+    src
+      github.com
+        ninadgawad
+          helloWorld
+          
+
+  
