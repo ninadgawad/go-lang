@@ -37,7 +37,7 @@ ____________________________________
 7. GoWorkspace - Stores your code 
 
 #### General Project Structure 
-```
+```go
 project
     bin
     pkg
